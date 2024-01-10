@@ -29,6 +29,17 @@ This module focuses on the basics of Python as a programming language. The modul
 
 ### 3. Exploratory Data Analysis (EDA)
 
-#### Description
+The module project involves performing an EDA on the dataset, and analysing and creating visualisations using  Python and Tableau. From the EDA, suggestions on factors to be considered in building the classification model is proposed.  
 
+### 4. yyy
+
+To be updated
+
+### 5. yyy
+To be updated
+
+### 6. yyy
+To be updated
+
+### 7. yyy
 To be updated
