@@ -31,15 +31,13 @@ This module focuses on the basics of Python as a programming language. The modul
 
 The module project involves performing an EDA on the dataset, and analysing and creating visualisations using  Python and Tableau. From the EDA, suggestions on factors to be considered in building the classification model is proposed.  
 
-### 4. yyy
+### 4. Statistical methods (Hypothesis testing)
 
-To be updated
+The module project involves the use of statistical methods, specifically hypothesis testing. The project also explores which hypothesis testing is suitable for the data. The chosen approach is then used and results are reported. 
 
-### 5. yyy
-To be updated
+### 5. Regression model 
 
-### 6. yyy
-To be updated
+The module project involves the creation of a regression model. The model is then evaluated and the results are interpreted for stakeholders. 
 
-### 7. yyy
-To be updated
+### 6. Machine Learning model
+The module project involves the creation of the final machine learning model for the claims classification data. The model is evaluated and the results are interpreted. 
